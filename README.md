@@ -1,7 +1,5 @@
 # Secret Number Generator
 
-_fork and clone your own fork of this repo, then push to your own github account._
-
 Gets a random number between 0 and 1000000 (inclusive).  
 Gets that same random number every time the functon is invoked  
 
